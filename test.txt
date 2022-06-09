@@ -6,3 +6,4 @@ Este es un cambio en la rama main
 Otro cambio rama main
 Otro cambio para corregir el commit
 Este comentario lo estoy haciendo desde otra cuenta como colaborador.
+
