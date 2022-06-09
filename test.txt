@@ -5,4 +5,5 @@ Esta modificación es de la rama2
 Este es un cambio en la rama main
 Otro cambio rama main
 Otro cambio para corregir el commit
-Primer commit como colaborador, para luego hacer PR.
+Este comentario lo estoy haciendo desde otra cuenta como colaborador.
+
